@@ -1,0 +1,132 @@
+body {
+    background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    color: white;
+    overflow-x: hidden;
+  }
+  
+  .head-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+  }
+  
+  #name {
+    font-size: 15px;
+  }
+  
+  #platform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+  }
+  
+  .mainSurveyForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1b1b32cc;
+    font-size: 2vw;
+    margin: 0 auto;
+    width: 45vw;
+  }
+  
+  #name, #email, #age, #dropdown {
+     font-size: 80px;
+  }
+  
+  
+  
+  
+  .survey-form {
+    padding: 50px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .form-div {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 2rem;
+  }
+  
+  .form-div input,
+  #dropdown {
+    width: 40vw;
+    height: 4vh;
+    border-radius: 5px;
+  }
+  
+  .radio-container {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  #form-radio {
+    display: flex;
+    align-items: center;
+  }
+  
+  #form-radio input {
+    width: 3vw;
+  }
+  
+  .radio {
+    width: 70px;
+    height: 80px;
+  }
+  
+  #div-checkbox {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+   .checkbox {
+    height: 60px;
+    width: 50px;
+  }
+  
+  #div-checkbox input {
+     width: 3vw;
+  }
+  
+  .check {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .text-input {
+    font-size: 100px;
+    width: 2400px;
+    height: 200px;
+  }
+    
+  .button {
+     display: block;
+     width: 100%;
+     padding: 0.75rem;
+     background-color: #008000;
+     text-align: center;
+     font-size: 100px;
+     cursor: pointer;
+   }
+  
+   .submit {
+    font-size: 50px;
+   }
+  
+  
