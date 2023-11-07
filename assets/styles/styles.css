@@ -26,7 +26,7 @@ body {
   font-size: 50px;
 }
 
-.mainSurveyForm {
+.main-survey-Form {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -60,7 +60,7 @@ body {
 }
 
 .form-div input,
-#dropdown {
+.dropdown {
   width: 40vw;
   height: 4vh;
   border-radius: 5px;
@@ -74,7 +74,7 @@ body {
   gap: 20px;
 }
 
-#form-radio {
+.form-radio {
   display: flex;
   align-items: center;
 }
