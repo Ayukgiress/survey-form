@@ -85,7 +85,6 @@ body {
   height: 4vh;
 }
 
-
 #form-radio input {
   width: 7vw;
   height: 4vh;
@@ -109,7 +108,6 @@ body {
   height: 19px;
   width: 19px;
 }
-
 
 .check {
   align-items: center;
@@ -159,10 +157,4 @@ body {
   margin-right: 90px;
   justify-content: start;
   font-size: 30px;
-}
-
-@media screen and (max-width: 480px) {
-  .main-survey-form {
-    
-  }
 }
